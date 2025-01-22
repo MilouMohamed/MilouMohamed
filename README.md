@@ -5,8 +5,8 @@
 - 📫 How to contact me  mohamed2017tsdi@gmail.com 
 <!---- 📫 How to reach me  mohamed2017tsdi@gmail.com or develop26master@gmail.com  --->
 - Link of some projects
--     https://miloumohamed.github.io/JavaScript/
--     https://projectmimo.great-site.net/
+-    <a href="https://miloumohamed.github.io/JavaScript" > https://miloumohamed.github.io/JavaScript/    </a>
+-   <a href="https://projectmimo.great-site.net" >  https://projectmimo.great-site.net/  </a>
 <!---
 Milou Mohamed/MilouMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
