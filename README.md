@@ -10,6 +10,7 @@
 -   <a href="http://medox.unaux.com/"   target="_blank" >   Site WordPress (Elementor , Single Page, Single Poste, ACF )   </a>
 -   <a href="https://ecom-maroc.kesug.com/"   target="_blank"  >   Site WordPress (WooComerce , Elementor  .....)   </a>
 -   <a href="http://medox2.unaux.com/Php_Chat_App/login.php"   target="_blank"  > App Chat php , js , css , MySql   </a>
+- <a href="https://example.com" target="_blank">Ouvrir dans une nouvelle fenêtre</a>
 
 <!---
 Milou Mohamed/MilouMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
